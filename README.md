@@ -1,3 +1,3 @@
 # Gaia-website
 
-Website for GAIA
+Beautiful website for GAIA
